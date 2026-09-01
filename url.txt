@@ -1,0 +1,15 @@
+mining-relay.slfb437c.workers.dev
+mining-relay.sl2a24a1.workers.dev
+mining-relay.slbe50ea.workers.dev
+mining-relay.sl88523b.workers.dev
+mining-relay.sl753970.workers.dev
+mining-relay.sl5cc0d6.workers.dev
+mining-relay.sl85c8c2.workers.dev
+mining-relay.slf67d71.workers.dev
+mining-relay.slf81880.workers.dev
+mining-relay.sl61b6a5.workers.dev
+mining-relay.sl00ad3c.workers.dev
+mining-relay.sl4b6241.workers.dev
+mining-relay.sl173297.workers.dev
+mining-relay.slaf782e.workers.dev
+mining-relay.sl2f79e1.workers.dev
